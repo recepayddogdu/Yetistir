@@ -1,0 +1,31 @@
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.exe.config
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.exe
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.pdb
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csprojAssemblyReference.cache
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Form1.resources
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Properties.Resources.resources
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csproj.GenerateResource.cache
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.exe
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.pdb
+F:\Belgeler\Ders\Ders Dönem5\Veritabanı\ödev\Veritabanı Proje\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Form2.resources
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.exe.config
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.exe
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.pdb
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csprojAssemblyReference.cache
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Form1.resources
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Form2.resources
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Properties.Resources.resources
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csproj.GenerateResource.cache
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csproj.CoreCompileInputs.cache
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.exe
+C:\Users\okand\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.pdb
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.exe.config
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.exe
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\bin\Debug\VTYS_Odev.pdb
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csprojAssemblyReference.cache
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Form1.resources
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Form2.resources
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.Properties.Resources.resources
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.csproj.GenerateResource.cache
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.exe
+C:\Users\recepaydoğdu\Desktop\VTYS_Odev\VTYS_Odev\obj\Debug\VTYS_Odev.pdb
